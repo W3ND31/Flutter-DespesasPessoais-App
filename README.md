@@ -1,6 +1,8 @@
-# expenses
+# Despesas Pessoais
 
-A new Flutter project.
+Um projeto criado a partir do curso de Flutter da COD3R ( Um Curso Completo Para Aprender Google Flutter e Dart Para a Construção de Apps Nativas Para iOS e Android. )
+
+A project made in the COD3R's Flutter course.
 
 ## Getting Started
 
